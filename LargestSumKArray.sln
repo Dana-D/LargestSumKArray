@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestSumKArray", "LargestSumKArray\LargestSumKArray.csproj", "{6FF48195-717C-443C-8D0B-849BC7C18094}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FF48195-717C-443C-8D0B-849BC7C18094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF48195-717C-443C-8D0B-849BC7C18094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF48195-717C-443C-8D0B-849BC7C18094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF48195-717C-443C-8D0B-849BC7C18094}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74B20193-4241-414D-B708-759FBD910D76}
+	EndGlobalSection
+EndGlobal
